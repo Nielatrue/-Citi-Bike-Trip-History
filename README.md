@@ -108,11 +108,13 @@ To share your work, save your workbook to Tableau Public and submit the URL so t
 
 Save by using shortcuts (CTRL + S or CMD + S), or by clicking "File" then "Save to Tableau Public."
 
-""
+![image](https://github.com/Nielatrue/-Citi-Bike-Trip-History/assets/144754677/5a4eb26c-ece4-4dc3-aba8-2a4003a58f28)
+
 
 After saving, the visualization will be uploaded to your profile, which will automatically open in a new browser window. Adjust the settings of your new visualization by clicking the gear on the toolbar and toggling where to show the visualization and to allow access.
 
-""
+![image](https://github.com/Nielatrue/-Citi-Bike-Trip-History/assets/144754677/6e7aee7f-9b27-49bd-94f3-b41219d44458)
+
 
 If you would also like to save your workbook as a .twbx file, from your Tableau Public workbook page, click the “Download” button, which looks like a rectangle with an arrow in the center pointing down. Within the menu that pops up, choose “Tableau Workbook.”
 
